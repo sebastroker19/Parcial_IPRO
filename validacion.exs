@@ -1,9 +1,9 @@
-# Integrantes: [Nombre 1], [Nombre 2], [Nombre 3]
+# Integrantes: [Sebastian Ballesteros Ruiz], [Sebastian Alirio Silva], [Kevin Esteban Echeverry Vargas]
 
 defmodule Validacion do
   @moduledoc """
   Modulo con las funciones de validacion de entregas del centro de acopio.
-  - Autor: [Nombre 1], [Nombre 2], [Nombre 3]
+  - Autor: [Sebastian Ballesteros Ruiz], [Sebastian Alirio Silva], [Kevin Esteban Echeverry Vargas]
   - Fecha: Septiembre 2026
   - Licencia: GNU GPL v3
 
