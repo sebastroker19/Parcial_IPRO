@@ -1,4 +1,4 @@
-# Integrantes: [Nombre 1], [Nombre 2], [Nombre 3]
+# Integrantes: [Sebastian Ballesteros Ruiz], [Sebastian Alirio Silva], [Kevin Esteban Echeverry Vargas]
 #
 # Programa principal. Ejecutar con:  elixir main.exs
 # (los archivos .exs deben estar en la misma carpeta)
@@ -14,7 +14,7 @@ defmodule Main do
   @moduledoc """
   Modulo principal: orquesta la carga de datos, la entrega adicional, la
   validacion, los reportes y el comprobante.
-  - Autor: [Nombre 1], [Nombre 2], [Nombre 3]
+  - Autor: [Sebastian Ballesteros Ruiz], [Sebastian Alirio Silva], [Kevin Esteban Echeverry Vargas]
   - Fecha: Septiembre 2026
   - Licencia: GNU GPL v3
   """

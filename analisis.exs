@@ -1,10 +1,10 @@
-# Integrantes: [Nombre 1], [Nombre 2], [Nombre 3]
+# Integrantes: [Sebastian Ballesteros Ruiz], [Sebastian Alirio Silva], [Kevin Esteban Echeverry Vargas]
 
 defmodule Analisis do
   @moduledoc """
   Modulo con los calculos necesarios para los reportes R2 a R8 y para la
   combinacion de mapas de la Parte C (investigacion).
-  - Autor: [Nombre 1], [Nombre 2], [Nombre 3]
+  - Autor: [Sebastian Ballesteros Ruiz], [Sebastian Alirio Silva], [Kevin Esteban Echeverry Vargas]
   - Fecha: Septiembre 2026
   - Licencia: GNU GPL v3
   """

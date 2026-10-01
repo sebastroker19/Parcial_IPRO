@@ -1,4 +1,4 @@
-# Integrantes: [Nombre 1], [Nombre 2], [Nombre 3]
+# Integrantes: [Sebastian Ballesteros Ruiz], [Sebastian Alirio Silva], [Kevin Esteban Echeverry Vargas]
 #
 # Parte C (investigacion). Ejecutar con:  elixir investigacion.exs
 
@@ -13,7 +13,7 @@ defmodule Investigacion do
   Modulo de la Parte C: demuestra el uso de `ranking/2` con keyword
   lists, la combinacion de mapas con `Map.merge/3` frente a `Map.merge/2`,
   y mediciones de tiempo con `:timer.tc/1`.
-  - Autor: [Nombre 1], [Nombre 2], [Nombre 3]
+  - Autor: [Sebastian Ballesteros Ruiz], [Sebastian Alirio Silva], [Kevin Esteban Echeverry Vargas]
   - Fecha: Septiembre 2026
   - Licencia: GNU GPL v3
   """
